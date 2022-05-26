@@ -1,0 +1,10 @@
+tir = int(input('Цыфра: '))
+rib = str(input('Буква: '))
+if tir == 1 and rib == "a":
+   print('черная клетка')
+if tir == 2 and rib == 'a':
+   print('белая клетка')
+if tir == 3 and rib == 'a':
+   print('черная клетка')
+if tir == 4 and rib == 'a':
+   print('белая клетка')
